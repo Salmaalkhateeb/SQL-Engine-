@@ -1,0 +1,8 @@
+Table Name, Column Name, Column Type, ClusteringKey, Indexed
+People,isHappy,java.lang.Boolean,false,false
+People,gpa,java.lang.Double,false,false
+People,birthDay,java.util.Date,false,false
+People,name,java.lang.String,false,false
+People,home,java.awt.Polygon,true,true
+People,id,java.lang.Integer,false,true
+People,TouchDate,java.util.Date,false,false
